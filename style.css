@@ -1,0 +1,53 @@
+body{
+    background-color: hsl(208, 100%, 97%);
+}
+.cor{
+    font-family: Montserrat;
+    font-size: 25px;
+    color: #3656c0;
+}
+.head{
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: left;
+    color: black;
+    padding-left: 350px;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: justify;
+    font-weight: 500;
+    color: #808080;
+    padding-left: 350px;
+    padding-right: 350px;
+}
+ul{
+    list-style: none;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 15px;
+    padding-left: 350px;
+}
+.res{
+    color: #ec610a;
+}
+.whi{
+    font-weight: lighter;
+    color: rgb(188, 186, 183);
+}
+li{
+    display: inline;
+}
+img{
+    width: 100%;
+    max-width: 110px;
+    object-fit: cover;
+    vertical-align: middle;
+    float: right;
+    padding-left: 90px;
+    padding-right: 350px;
+    padding-bottom: 30px;
+}
